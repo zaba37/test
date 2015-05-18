@@ -1,0 +1,92 @@
+maj 12, 2015 12:57:22 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:01:54 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:01:54 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:02:32 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:02:32 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:16:09 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:16:21 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:16:57 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public void dao.CustomerFacade.create(model.Customer)
+maj 12, 2015 1:16:57 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:16:57 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public void dao.AccountFacade.create(model.Account)
+maj 12, 2015 1:18:55 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:23:23 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:24:38 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:35:20 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:35:26 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:35:44 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:35:49 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:37:17 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:38:22 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:38:22 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:38:28 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:38:29 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:38:30 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:38:31 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:38:31 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:38:35 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:38:36 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:39:29 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:39:39 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:39:45 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:39:48 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:39:54 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:40:14 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:40:18 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:40:24 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 1:40:29 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 2:37:46 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public void dao.CustomerFacade.create(model.Customer)
+maj 12, 2015 2:39:37 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public void dao.CustomerFacade.create(model.Customer)
+maj 12, 2015 2:39:37 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 2:39:37 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public void dao.AccountFacade.create(model.Account)
+maj 12, 2015 2:39:41 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 2:39:52 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 2:42:21 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 2:42:24 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 2:42:27 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
+maj 12, 2015 2:42:31 PM dao.interceptor intercept
+INFO: dao.interceptor Wywo³ano public java.util.List dao.AbstractFacade.findAll()
